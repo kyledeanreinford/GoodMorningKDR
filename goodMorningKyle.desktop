@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name="Good Morning KDR"
+Exec=bash goodMorningKyle.sh
+Type=Application
+StartupNotify=true
+Path=/home/kyle/Projects/Scripts/GoodMorning
+Icon=/home/kyle/Projects/Scripts/GoodMorning/goodMorning.jpg
